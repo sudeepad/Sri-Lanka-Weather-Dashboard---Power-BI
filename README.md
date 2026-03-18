@@ -32,8 +32,6 @@ The dashboard provides insights into temperature, humidity, rainfall, and weathe
 
 ```
 ├── WeatherDashboard.pbix
-├── data/
-│   ├── sample_dataset.xlsx
 └── README.md
 ```
 
