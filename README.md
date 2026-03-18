@@ -24,7 +24,7 @@ The dashboard provides insights into temperature, humidity, rainfall, and weathe
 * **Power BI Desktop**
 * **DAX (Data Analysis Expressions)**
 * **Power Query (ETL)**
-* Weather API / Dataset (mention your source)
+* Weather API 
 
 ---
 
@@ -44,7 +44,8 @@ The dashboard provides insights into temperature, humidity, rainfall, and weathe
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+<img width="1283" height="720" alt="image" src="https://github.com/user-attachments/assets/de2a808d-5248-4669-a2d4-722f9bc9a6b9" />
+
 
 ---
 
@@ -80,6 +81,3 @@ Software Engineer | Power Platform Developer
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
