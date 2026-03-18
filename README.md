@@ -32,9 +32,6 @@ The dashboard provides insights into temperature, humidity, rainfall, and weathe
 
 ```
 ├── WeatherDashboard.pbix
-├── screenshots/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
 ├── data/
 │   ├── sample_dataset.xlsx
 └── README.md
@@ -46,6 +43,7 @@ The dashboard provides insights into temperature, humidity, rainfall, and weathe
 
 <img width="1283" height="720" alt="image" src="https://github.com/user-attachments/assets/de2a808d-5248-4669-a2d4-722f9bc9a6b9" />
 
+<img width="1283" height="727" alt="screenshot3" src="https://github.com/user-attachments/assets/6b258116-36ef-48d7-970b-bac10926b2be" />
 
 ---
 
